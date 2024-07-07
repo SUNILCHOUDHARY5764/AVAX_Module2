@@ -79,9 +79,8 @@ The `depositBalance` function facilitates the process of depositing funds from t
 The `withdrawBalance` function allows users to withdraw funds from their bank account to their MetaMask wallet address. Users specify the withdrawal amount, and the application processes the request, deducting the amount from the account balance and transferring it to the designated wallet address.
 
 ## Authors
-
-- Gautham 
-- bgautham27@gmail.com
+- Sunil Kumar
+- sunilchaudhary5879@gmail.com
 
 ## License
 
